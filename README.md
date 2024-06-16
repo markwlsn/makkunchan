@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A passionate and dedicated software developer with a love for coding</h3>
+<h3 align="center">A passionate software developer with a love for coding</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
@@ -9,9 +9,15 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=makkunchan" alt="makkunchan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=makkunchan&theme=onedark" alt="makkunchan" />
   </a>
 </p>
+
+## 📝 About Me
+
+- 🌱 I’m currently learning **React and Node.js**
+- 💬 Ask me about **Java, Python, and Web Development**
+- 📫 How to reach me: **mark@example.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +26,9 @@
   </a>
   <a href="https://twitter.com/" target="blank">
     <img align="center" src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+  </a>
+  <a href="https://linkedin.com/in/makkunchan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="makkunchan" height="30" width="40" />
   </a>
 </p>
 
@@ -57,6 +66,20 @@
   </a>
 </p>
 
+## 🔨 Personal Projects
+
+- [**Project 1**](https://github.com/makkunchan/project1): A brief description of project 1.
+- [**Project 2**](https://github.com/makkunchan/project2): A brief description of project 2.
+- [**Project 3**](https://github.com/makkunchan/project3): A brief description of project 3.
+
+## 🏆 Custom Badges and Contributions
+
+- ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
+- ![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-blue)
+- Mention your contributions to open-source projects and other achievements here.
+
+## 📊 GitHub Stats
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makkunchan&show_icons=true&locale=en&layout=compact" alt="makkunchan" />
 </p>
@@ -68,5 +91,4 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makkunchan&" alt="makkunchan" />
 </p>
-
 
