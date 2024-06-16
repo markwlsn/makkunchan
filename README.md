@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mark Wilson Geronilla</h1>
+<h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">I am a passionate and dedicated software developer with a love for coding</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
